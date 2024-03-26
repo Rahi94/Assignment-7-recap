@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-
+import Blog from "../Blog/Blog";
 
 const Blogs2 = () => {
     const[ blogs, setBlogs] = useState([]);
@@ -9,8 +9,11 @@ const Blogs2 = () => {
         .then(data => setBlogs(data))
     },[])
     return (
-        <div className="w-2/3 border-2 border-red-600">
-            <h3>blogs</h3>
+        <div className="w-2/3  flex gap-4 grid grid-cols-2">
+            
+            {
+                blogs.map(blog => <Blog key={blog.idx} blog={blog}></Blog>)
+            }
         </div>
     );
 };

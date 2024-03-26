@@ -1,6 +1,6 @@
 [
     {
-      "img": "https://via.placeholder.com/300",
+      "img": "https://i.ibb.co/wBxgCmh/stir-fry-chicken-zucchini-sweet-peppers-green-onion.jpg",
       "title": "Spaghetti Carbonara",
       "description": "Classic Italian pasta dish with creamy sauce.",
       "ingredients": ["Spaghetti", "Bacon", "Eggs"],
@@ -9,7 +9,7 @@
       "button": "Get Recipe"
     },
     {
-      "img": "https://via.placeholder.com/300",
+      "img": "https://i.ibb.co/QbMcZrF/top-view-rice-with-vegetables-soy-sauce-chopsticks.jpg",
       "title": "Grilled Chicken Salad",
       "description": "Healthy and delicious salad with grilled chicken.",
       "ingredients": ["Chicken Breast", "Lettuce", "Tomatoes"],
@@ -18,7 +18,7 @@
       "button": "Get Recipe"
     },
     {
-      "img": "https://via.placeholder.com/300",
+      "img": "https://i.ibb.co/9YVDtpp/meat-with-chili-sauce-black-table.jpg",
       "title": "Vegetable Stir-Fry",
       "description": "Quick and easy stir-fry with fresh vegetables.",
       "ingredients": ["Broccoli", "Carrots", "Bell Peppers"],
@@ -27,22 +27,14 @@
       "button": "Get Recipe"
     },
     {
-      "img": "https://via.placeholder.com/300",
+      "img": "https://i.ibb.co/LgvK8KT/high-angle-traditional-asian-meal-with-chopsticks.jpg",
       "title": "Banana Smoothie",
       "description": "Refreshing smoothie packed with bananas.",
       "ingredients": ["Bananas", "Milk", "Honey"],
       "time": 10,
       "calories": 150,
       "button": "Get Recipe"
-    },
-    {
-      "img": "https://via.placeholder.com/300",
-      "title": "Homemade Pizza",
-      "description": "Make your own pizza with your favorite toppings.",
-      "ingredients": ["Pizza Dough", "Tomato Sauce", "Cheese"],
-      "time": 40 ,
-      "calories": 500,
-      "button": "Get Recipe"
     }
+   
   ]
   
