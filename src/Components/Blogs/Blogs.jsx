@@ -1,15 +1,15 @@
-import { useEffect, useState } from "react";
-
 
 const Blogs = () => {
-    const [blogs, setBlogs] = useState([]);
-    useEffect(()=>{
-        fetch('blogs.json')
-        .then(res => res.json())
-        .then(data => setBlogs(data))
-    },[])
+    
     return (
-        <div>
+        <div className="mt-56">
+            <div className="text-center">
+                <h3 className="font-bold text-4xl mb-3">
+                    Our Recipes
+                </h3>
+                <p>Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget <br />
+                    urna volutpat curabitur elementum mauris aenean neque.</p>
+            </div>
             
         </div>
     );
