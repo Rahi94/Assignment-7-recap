@@ -1,0 +1,48 @@
+[
+    {
+      "img": "https://via.placeholder.com/300",
+      "title": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta dish with creamy sauce.",
+      "ingredients": ["Spaghetti", "Bacon", "Eggs"],
+      "time": 30,
+      "calories": 450,
+      "button": "Get Recipe"
+    },
+    {
+      "img": "https://via.placeholder.com/300",
+      "title": "Grilled Chicken Salad",
+      "description": "Healthy and delicious salad with grilled chicken.",
+      "ingredients": ["Chicken Breast", "Lettuce", "Tomatoes"],
+      "time": 20,
+      "calories": 300,
+      "button": "Get Recipe"
+    },
+    {
+      "img": "https://via.placeholder.com/300",
+      "title": "Vegetable Stir-Fry",
+      "description": "Quick and easy stir-fry with fresh vegetables.",
+      "ingredients": ["Broccoli", "Carrots", "Bell Peppers"],
+      "time": 15,
+      "calories": 200,
+      "button": "Get Recipe"
+    },
+    {
+      "img": "https://via.placeholder.com/300",
+      "title": "Banana Smoothie",
+      "description": "Refreshing smoothie packed with bananas.",
+      "ingredients": ["Bananas", "Milk", "Honey"],
+      "time": 10,
+      "calories": 150,
+      "button": "Get Recipe"
+    },
+    {
+      "img": "https://via.placeholder.com/300",
+      "title": "Homemade Pizza",
+      "description": "Make your own pizza with your favorite toppings.",
+      "ingredients": ["Pizza Dough", "Tomato Sauce", "Cheese"],
+      "time": 40 ,
+      "calories": 500,
+      "button": "Get Recipe"
+    }
+  ]
+  
