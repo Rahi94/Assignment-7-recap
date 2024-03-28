@@ -6,7 +6,8 @@
       "ingredients": ["Spaghetti", "Bacon", "Eggs"],
       "time": 30,
       "calories": 450,
-      "button": "Get Recipe"
+      "button": "Get Recipe",
+      "id":1
     },
     {
       "img": "https://i.ibb.co/QbMcZrF/top-view-rice-with-vegetables-soy-sauce-chopsticks.jpg",
@@ -15,7 +16,8 @@
       "ingredients": ["Chicken Breast", "Lettuce", "Tomatoes"],
       "time": 20,
       "calories": 300,
-      "button": "Get Recipe"
+      "button": "Get Recipe",
+      "id":2
     },
     {
       "img": "https://i.ibb.co/9YVDtpp/meat-with-chili-sauce-black-table.jpg",
@@ -24,7 +26,8 @@
       "ingredients": ["Broccoli", "Carrots", "Bell Peppers"],
       "time": 15,
       "calories": 200,
-      "button": "Get Recipe"
+      "button": "Get Recipe",
+      "id":3
     },
     {
       "img": "https://i.ibb.co/LgvK8KT/high-angle-traditional-asian-meal-with-chopsticks.jpg",
@@ -33,7 +36,8 @@
       "ingredients": ["Bananas", "Milk", "Honey"],
       "time": 10,
       "calories": 150,
-      "button": "Get Recipe"
+      "button": "Get Recipe",
+      "id":4
     }
    
   ]

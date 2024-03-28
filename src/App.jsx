@@ -6,6 +6,8 @@ import Blogs from './Components/Blogs/Blogs'
 import Blogs2 from './Components/Blogs2/Blogs2'
 import Cook from './Components/Cook/Cook'
 import Header from './Components/Header/Header'
+import Cooking from './Components/Cooking/Cooking'
+
 
 function App() {
   const [cook, setCook] = useState([])
@@ -22,6 +24,8 @@ function App() {
       <div className='flex justify-between mx-12 mt-12 gap-4'>
       <Blogs2 handleAddToCook={handleAddToCook}></Blogs2>
       <Cook cook={cook}></Cook>
+      <Cooking></Cooking>
+      
       </div>
     </>
   )

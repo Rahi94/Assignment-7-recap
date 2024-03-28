@@ -14,7 +14,7 @@ const Blogs2 = ({handleAddToCook}) => {
             
             {
                 blogs.map(blog => <Blog
-                     key={blog.idx} 
+                     key={blog.time} 
                      blog={blog}
                     handleAddToCook={handleAddToCook}>
 
