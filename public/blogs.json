@@ -11,7 +11,7 @@
     {
       "img": "https://i.ibb.co/QbMcZrF/top-view-rice-with-vegetables-soy-sauce-chopsticks.jpg",
       "title": "Grilled Chicken Salad",
-      "description": "Healthy and delicious salad with grilled chicken.",
+      "description": "Healthy and delicious salad with chicken",
       "ingredients": ["Chicken Breast", "Lettuce", "Tomatoes"],
       "time": 20,
       "calories": 300,
@@ -20,7 +20,7 @@
     {
       "img": "https://i.ibb.co/9YVDtpp/meat-with-chili-sauce-black-table.jpg",
       "title": "Vegetable Stir-Fry",
-      "description": "Quick and easy stir-fry with fresh vegetables.",
+      "description": "Quick and easy stir-fry with vegatable.",
       "ingredients": ["Broccoli", "Carrots", "Bell Peppers"],
       "time": 15,
       "calories": 200,

@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import Blog from "../Blog/Blog";
+import PropTypes from 'prop-types'; 
 
-const Blogs2 = () => {
+const Blogs2 = ({handleAddToCook}) => {
     const[ blogs, setBlogs] = useState([]);
     useEffect(()=>{
         fetch('blogs.json')
@@ -12,10 +13,18 @@ const Blogs2 = () => {
         <div className="w-2/3  flex gap-4 grid grid-cols-2">
             
             {
-                blogs.map(blog => <Blog key={blog.idx} blog={blog}></Blog>)
+                blogs.map(blog => <Blog
+                     key={blog.idx} 
+                     blog={blog}
+                    handleAddToCook={handleAddToCook}>
+
+                     </Blog>)
             }
         </div>
     );
 };
+Blogs2.propTypes = {
+    handleAddToCook: PropTypes.func
+}
 
 export default Blogs2;

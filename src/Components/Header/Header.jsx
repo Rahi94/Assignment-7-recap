@@ -11,8 +11,8 @@ const Header = () => {
                 <p>Search</p>
             </div>
             <div className='flex gap-3 items-center'>
-                <input className="rounded-xl p-1 bg-slate-100" type="text" placeholder="Search here"/>
-                <button className="bg-green-500 rounded-full"><FaRegCircleUser></FaRegCircleUser></button>
+                <input className="rounded-xl p-1 pl-4 py-2 bg-slate-100" type="text" placeholder="Search here"/>
+                <button className="bg-green-500 p-2 rounded-full"><FaRegCircleUser></FaRegCircleUser></button>
             </div>
         </div>
     );
